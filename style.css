@@ -21,6 +21,7 @@
     font-weight: 500;
     margin-top: -50px;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .container span {
@@ -28,7 +29,7 @@
 }
 
 textarea {
-    width: 400px;
+    width: 350px;
     height: 250px;
     background: #403d84;
     color: #fff;
@@ -47,7 +48,7 @@ textarea::placeholder {
 }
 
 .row {
-    width: 400px;
+    width: 350px;
     display: flex;
     align-items: center;
     gap: 18px;
@@ -88,4 +89,5 @@ select {
     background-size: 15px;
     background-position-x: calc(100% - 20px);
     background-position-y: 20px;
+     width: 231px;
 }
